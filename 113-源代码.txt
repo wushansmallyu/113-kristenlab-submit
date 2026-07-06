@@ -4,3 +4,7 @@
 
 程序源代码公开地址：
 https://github.com/wushansmallyu/113-kristenlab-submit
+
+说明：
+源码位于本仓库的 kristenLab/ 文件夹中。
+
